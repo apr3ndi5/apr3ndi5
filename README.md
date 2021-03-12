@@ -7,8 +7,7 @@
 
 <details>
 <summary>Biografia</summary>
-  <p align="center"> <img src="https://avatars.githubusercontent.com/u/38929104?s=460&u=3699d778bce6788236fb770836f035d1ed68b912&v=4" height="200" width="200" />
-  
+ 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   > Sou o Guilherme Lima Araujo, entrei no mundo da programação com 16 anos mas só me envolvi realmente com 17 estudando c++ voltado a game hacking, mas ultimamente estou focado na comunidade golang
 
