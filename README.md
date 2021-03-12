@@ -33,7 +33,6 @@
 
 <details>
   <summary>Linguagens / Tools</summary>
- > Informações De Como Virou programador, e suas lang e conhecimentos.**
 
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
