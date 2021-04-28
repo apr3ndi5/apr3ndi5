@@ -37,7 +37,7 @@
 
 > - 🧪 | Atualmente faço minhas ferramentas pelo sistema operacional Windows e Linux 
 
-> - 💬 | Entre em contato comigo pelo Discord: ᵖˣAPRENDIZ47.CB#4488
+> - 💬 | Entre em contato comigo pelo Discord: APRENDIZ47.CB#4488
 
 <img src="https://komarev.com/ghpvc/?username=apr3ndi5&color=000001" alt="G3" /> </p>
 
