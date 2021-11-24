@@ -43,8 +43,6 @@
 
 <img src="https://user-images.githubusercontent.com/65877801/111003777-85d28000-8366-11eb-945a-b9a4b88b1059.png" height="25px" width="30px"/> <img src="https://img.shields.io/badge/-GOLang-16bdfa">
 
- <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="20px" width="20px"/>  <img src="https://img.shields.io/badge/-CSharp-8816fa">
-
 </details>
 
 <details>
@@ -59,8 +57,5 @@
 
  </details>
  
- <a href="discord.gg/projetox" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="50" width="50"/></a>
-<a href="https://twitter.com/@not" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="50" width="50"/></a>
-<a href="https://twitch.tv/yg3zzing" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="50" width="50"/></a>
 
 **Creditos** G3ZIN
